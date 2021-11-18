@@ -1,0 +1,5 @@
+// this runs every frame of the game. Be VERY careful with what you put in here!
+
+if(mouse_check_button_pressed(mb_left)){
+	instance_create_layer(mouse_x, mouse_y, "Text", obj_introductory_text);
+}
