@@ -27,7 +27,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "randyjames",
-    "path": "folders/Objects/randyjames.yy",
+    "path": "folders/Objects/obj_map/obj_private_locations/obj_residential_homes/randyjames.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_begintalking",
